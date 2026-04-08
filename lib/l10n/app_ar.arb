@@ -1,0 +1,168 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق اللياقة البدنية",
+  "guidanceCenter": "مركز الإرشادات",
+  "articles": "المقالات والنصائح",
+  "vitamins": "الفيتامينات",
+  "strengthTraining": "نصائح تدريب القوة",
+  "healthyWeightLoss": "فقدان الوزن الصحي",
+  "workoutPlan": "خطة التمرين",
+  "progress": "التقدم",
+  "nutrition": "التغذية",
+  "injuries": "الإصابات",
+  "seeMore": "عرض المزيد",
+  "exercisesThisWeek": "التمارين لهذا الأسبوع",
+  "noData": "لا توجد بيانات متاحة",
+  "loading": "جاري التحميل...",
+  "error": "حدث خطأ",
+  
+  "weeklyPlan": "الخطة الأسبوعية",
+  "dailySchedule": "الجدول اليومي",
+  "todayWorkout": "تمرين اليوم",
+  "completeWorkout": "إكمال التمرين",
+  "skipWorkout": "تخطي التمرين",
+  "duration": "المدة",
+  "calories": "السعرات الحرارية",
+  "minutes": "دقائق",
+  "tasks": "المهام",
+  "rounds": "الجولات",
+  "difficulty": "مستوى الصعوبة",
+  "easy": "سهل",
+  "moderate": "متوسط",
+  "high": "صعب",
+  "startWorkout": "ابدأ التمرين",
+  "pauseWorkout": "إيقاف التمرين مؤقتاً",
+  "resumeWorkout": "استئناف التمرين",
+  "finishWorkout": "إنهاء التمرين",
+  "warmUp": "الإحماء",
+  "coolDown": "التهدئة",
+  "rest": "الراحة",
+  
+  "progressTracking": "تتبع التقدم",
+  "weeklyProgress": "التقدم الأسبوعي",
+  "totalCalories": "إجمالي السعرات الحرارية المحروقة",
+  "workoutsCompleted": "التمارين المكتملة",
+  "streakDays": "سلسلة الأيام",
+  "personalBest": "أفضل أداء شخصي",
+  
+  "meals": "الوجبات",
+  "breakfast": "الفطور",
+  "lunch": "الغداء",
+  "dinner": "العشاء",
+  "snacks": "الوجبات الخفيفة",
+  "addMeal": "إضافة وجبة",
+  "mealPlan": "خطة الوجبات",
+  "calories": "السعرات الحرارية",
+  "protein": "البروتين",
+  "carbs": "الكربوهيدرات",
+  "fats": "الدهون",
+  
+  "injuries": "الإصابات",
+  "injuryRecovery": "التعافي من الإصابة",
+  "reportInjury": "الإبلاغ عن إصابة",
+  "recoveryTips": "نصائح التعافي",
+  "restday": "يوم الراحة",
+  
+  "settings": "الإعدادات",
+  "profile": "الملف الشخصي",
+  "logout": "تسجيل الخروج",
+  "language": "اللغة",
+  "notifications": "الإشعارات",
+  "darkMode": "الوضع الداكن",
+  "aboutApp": "حول التطبيق",
+  
+  "userName": "اسم المستخدم",
+  "email": "البريد الإلكتروني",
+  "age": "العمر",
+  "gender": "الجنس",
+  "height": "الطول",
+  "weight": "الوزن",
+  "sportType": "نوع الرياضة",
+  
+  "confirm": "تأكيد",
+  "cancel": "إلغاء",
+  "delete": "حذف",
+  "edit": "تعديل",
+  "save": "حفظ",
+  "back": "رجوع",
+  "next": "التالي",
+  "done": "تم",
+
+  "hiUser": "مرحبًا، {name}",
+  "challengeLimits": "حان وقت تحدي حدودك.",
+  "hi": "مرحبًا",
+  "article": "مقالة",
+  "vitamin": "فيتامين",
+  "retry": "إعادة المحاولة",
+  "noVitamins": "لا توجد فيتامينات متاحة",
+  "noArticles": "لا توجد مقالات متاحة",
+  "keyBenefits": "الفوائد الرئيسية:",
+  "recommendedDosage": "الجرعة الموصى بها:",
+  "foodSources": "المصادر الغذائية:",
+  "home": "الرئيسية",
+  "workout": "التمرين",
+  "tips": "النصائح",
+  "passwordsetting": "كلمة السر",
+
+
+
+
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  "enterEmailBelow": "أدخل بريدك الإلكتروني أدناه",
+  "emailAddress": "عنوان البريد الإلكتروني",
+  "emailHint": "example@email.com",
+  "backToLogin": "العودة إلى تسجيل الدخول",
+
+
+  "editProfile": "تعديل الملف الشخصي",
+  "profileUpdated": "تم تحديث الملف الشخصي بنجاح!",
+  "emailRequired": "البريد الإلكتروني مطلوب",
+  "invalidEmail": "البريد الإلكتروني غير صالح",
+  "usernameRequired": "اسم المستخدم مطلوب",
+  "saveChanges": "حفظ التغييرات",
+
+
+  "meals": "الوجبات",
+  "ingredients": "المكونات",
+
+
+  "passwordSettings": "إعدادات كلمة المرور",
+  "currentPassword": "كلمة المرور الحالية",
+  "enterCurrentPassword": "يرجى إدخال كلمة المرور الحالية",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "newPassword": "كلمة المرور الجديدة",
+  "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+  "changePassword": "تغيير كلمة المرور",
+
+  "passwordChangedSuccess": "تم تغيير كلمة المرور بنجاح!",
+  "passwordResetSent": "تم إرسال رابط إعادة التعيين!",
+
+  "passwordEmpty": "لا يمكن ترك كلمة المرور فارغة",
+  "passwordTooShort": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل",
+  "passwordNeedUppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+  "passwordNeedLowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+  "passwordNeedNumber": "يجب أن تحتوي على رقم واحد على الأقل",
+  "passwordNeedSpecial": "يجب أن تحتوي على رمز خاص واحد ( إلخ)",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+
+
+  "mealsPlan": "خطة الوجبات",
+  "noMealsInCategory": "لا توجد وجبات في هذه الفئة",
+  "breakfast": "الإفطار",
+  "preTraining": "قبل التمرين",
+  "dinner": "العشاء",
+
+
+
+  "english": "English",
+  "arabic": "العربية",
+  "french": "Français",
+  "languageChangedTo": "تم تغيير اللغة إلى {languageName}",
+  "@languageChangedTo": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  }
+}

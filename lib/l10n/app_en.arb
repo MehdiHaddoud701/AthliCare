@@ -1,0 +1,167 @@
+{
+  "@@locale": "en",
+  "appTitle": "Fitness App",
+  "guidanceCenter": "Guidance Center",
+  "articles": "Articles & Tips",
+  "vitamins": "Vitamins",
+  "strengthTraining": "Strength Training Tips",
+  "healthyWeightLoss": "Healthy Weight Loss",
+  "workoutPlan": "Workout plan",
+  "progress": "Progress",
+  "nutrition": "Nutrition",
+  "injuries": "Injuries",
+  "seeMore": "See More",
+  "exercisesThisWeek": "Exercises For This Week",
+  "noData": "No data available",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  
+  "weeklyPlan": "Weekly Plan",
+  "dailySchedule": "Daily Schedule",
+  "todayWorkout": "Today's Workout",
+  "completeWorkout": "Complete Workout",
+  "skipWorkout": "Skip Workout",
+  "duration": "Duration",
+  "calories": "Calories",
+  "minutes": "minutes",
+  "tasks": "Tasks",
+  "rounds": "Rounds",
+  "difficulty": "Difficulty",
+  "easy": "Easy",
+  "moderate": "Moderate",
+  "high": "High",
+  "startWorkout": "Start Workout",
+  "pauseWorkout": "Pause Workout",
+  "resumeWorkout": "Resume Workout",
+  "finishWorkout": "Finish Workout",
+  "warmUp": "Warm Up",
+  "coolDown": "Cool Down",
+  "rest": "Rest",
+  
+  "progressTracking": "Progress Tracking",
+  "weeklyProgress": "Weekly Progress",
+  "totalCalories": "Total Calories Burned",
+  "workoutsCompleted": "Workouts Completed",
+  "streakDays": "Day Streak",
+  "personalBest": "Personal Best",
+  
+  "meals": "Meals",
+  "breakfast": "Breakfast",
+  "lunch": "Lunch",
+  "dinner": "Dinner",
+  "snacks": "Snacks",
+  "addMeal": "Add Meal",
+  "mealPlan": "Meal Plan",
+  "protein": "Protein",
+  "carbs": "Carbs",
+  "fats": "Fats",
+  
+  "injuryRecovery": "Injury Recovery",
+  "reportInjury": "Report Injury",
+  "recoveryTips": "Recovery Tips",
+  "restday": "Rest Day",
+  
+  "settings": "Settings",
+  "profile": "Profile",
+  "logout": "Logout",
+  "language": "Language",
+  "notifications": "Notifications",
+  "darkMode": "Dark Mode",
+  "aboutApp": "About App",
+  
+  "userName": "Username",
+  "email": "Email",
+  "age": "Age",
+  "gender": "Gender",
+  "height": "Height",
+  "weight": "Weight",
+  "sportType": "Sport Type",
+  
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "save": "Save",
+  "back": "Back",
+  "next": "Next",
+  "done": "Done",
+  
+  "hiUser": "Hi, {name}",
+  "challengeLimits": "It's time to challenge your limits.",
+  "hi": "Hi",
+  "article": "Article",
+  "vitamin": "Vitamin",
+  "retry": "Retry",
+  "noVitamins": "No vitamins available",
+  "noArticles": "No articles available",
+  "keyBenefits": "Key Benefits:",
+  "recommendedDosage": "Recommended Dosage:",
+  "foodSources": "Food Sources:",
+  "home": "Home",
+  "workout": "Workout",
+  "injuries": "Injuries",
+  "tips": "Tips",
+  "profile": "Profile",
+  "passwordsetting": "Password Setting",
+
+
+    "resetPassword": "Reset Password",
+    "enterEmailBelow": "Enter your email address below",
+    "emailAddress": "Email Address",
+    "emailHint": "example@email.com",
+    "backToLogin": "Back to Log In",
+
+
+  "editProfile": "Edit Profile",
+  "profileUpdated": "Profile updated successfully!",
+  "emailRequired": "Email required",
+  "invalidEmail": "Invalid email",
+  "usernameRequired": "Username required",
+  "saveChanges": "Save Changes",
+
+
+  "meals": "Meals",
+  "ingredients": "Ingredients",
+
+
+  "passwordSettings": "Password Settings",
+  "currentPassword": "Current Password",
+  "enterCurrentPassword": "Please enter your current password",
+  "forgotPassword": "Forgot Password?",
+  "newPassword": "New Password",
+  "confirmNewPassword": "Confirm New Password",
+  "changePassword": "Change Password",
+
+  "passwordChangedSuccess": "Password changed successfully!",
+  "passwordResetSent": "Password reset link sent!",
+
+  "passwordEmpty": "Password cannot be empty",
+  "passwordTooShort": "Password must be at least 8 characters long",
+  "passwordNeedUppercase": "Include at least one uppercase letter",
+  "passwordNeedLowercase": "Include at least one lowercase letter",
+  "passwordNeedNumber": "Include at least one number",
+  "passwordNeedSpecial": "Include at least one special character ( etc.)",
+  "passwordsDoNotMatch": "Passwords do not match",
+
+
+    "mealsPlan": "Meals Plan",
+    "noMealsInCategory": "No meals in this category",
+    "breakfast": "Breakfast",
+    "preTraining": "Pre-Training",
+    "dinner": "Dinner",
+
+
+
+  
+  "english": "English",
+  "arabic": "العربية",
+  "french": "Français",
+  "languageChangedTo": "Language changed to {languageName}",
+  "@languageChangedTo": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  }
+}
